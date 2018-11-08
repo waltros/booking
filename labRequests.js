@@ -128,5 +128,6 @@ var labEvents = [
   { title: 'Townhall Meeting / Misa C.',  start: '2018-12-05', end: '2018-12-05',     resourceId: 'C-MEETROOM' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' }
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
+   {title: 'HR Innovation Meeting / Tom W.', start: '2018-11-22T15:00:00', end: '2018-11-22T17:00:00', resourceId: 'B-LONGTABLE' }
 ]
